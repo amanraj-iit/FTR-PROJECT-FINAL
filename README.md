@@ -23,4 +23,9 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies :
 App Service
 
+### Azure Website :
+https://amanfirstproject.z21.web.core.windows.net/
 
+or
+
+https://amanfirstproject-secondary.z21.web.core.windows.net/index.html
