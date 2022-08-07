@@ -33,3 +33,5 @@ https://amanfirstproject-secondary.z21.web.core.windows.net/index.html
 ### Github deployed
 
 https://amanraj-iit.github.io/FTR-PROJECT-FINAL/
+
+frtproject.netlify.app
